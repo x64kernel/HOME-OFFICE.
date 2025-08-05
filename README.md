@@ -81,7 +81,7 @@
             <ul>
                 <li><strong>Acesso ao Conteúdo Exclusivo</strong>: guia completo e detalhado.</li>
                 <li><strong>Direito de Revenda</strong>: você vende o material e o lucro é 100% seu.</li>
-                <li><strong>Preço Sugerido</strong>: recomendamos R$ 7,50, mas você define seu valor.</li>
+                <li><strong>Preço Sugerido</strong>: recomendamos R$ 5,00  mas você define seu valor.</li>
             </ul>
 
             <p><strong>Modelo de Trabalho:</strong></p>

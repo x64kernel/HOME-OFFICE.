@@ -1,8 +1,9 @@
+
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Material de Vendas - Adquira agora!</title>
+    <title>Material de Vendas - Home Office</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
@@ -31,24 +32,6 @@
             border-radius: 12px;
             border: 1px solid #f1c40f; /* Borda dourada */
             box-shadow: 0 4px 15px rgba(241, 196, 15, 0.1);
-        }
-
-        .cta-button {
-            display: inline-block;
-            background-color: #f1c40f; /* Botão dourado */
-            color: #000; /* Texto do botão preto */
-            padding: 15px 30px;
-            text-decoration: none;
-            font-size: 1.2em;
-            font-weight: bold;
-            border-radius: 50px;
-            margin-top: 20px;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-        }
-
-        .cta-button:hover {
-            background-color: #e1b40e;
-            transform: translateY(-2px);
         }
 
         ul {
@@ -86,10 +69,6 @@
     </style>
 </head>
 <body>
-
-    <div class="container">
-       
-    </div>
 
     <div id="pagamento" class="container">
         <div class="payment-box">

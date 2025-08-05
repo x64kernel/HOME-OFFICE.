@@ -88,7 +88,7 @@
 <body>
 
     <div class="container">
-        <a href="#pagamento" class="cta-button">Adquira Agora!</a>
+       
     </div>
 
     <div id="pagamento" class="container">

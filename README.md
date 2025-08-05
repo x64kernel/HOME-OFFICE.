@@ -74,7 +74,7 @@
         <div class="payment-box">
             <h2>Material de Vendas para Trabalho em Home Office</h2>
             <p>
-                Cansado da rotina e em busca de mais <strong>liberdade?</strong> Com o home office, você pode transformar seu tempo livre em fonte de renda e trabalhar de qualquer lugar! Mesmo sem experiência, <span class="highlight">essa oportunidade é pra você</span>.
+                Cansado da rotina e em busca de mais <strong>liberdade?</strong> Com o home office,você pode transformar seu tempo livre em fonte de renda e trabalhar de qualquer lugar! Mesmo sem experiência,<span class="highlight">essa oportunidade é pra você</span>.
             </p>
 
             <p><strong>O que você vai receber:</strong></p>
